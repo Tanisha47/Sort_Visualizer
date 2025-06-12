@@ -9,7 +9,7 @@ Sorting Visualizer lets users see how various sorting algorithms operate step by
 ## Live Demo
 
 You can try out the live version here (best viewed in Google Chrome):  
-[https://clementmihailescu.github.io/Sorting-Visualizer/]
+https://tanisha47.github.io/Sort_Visualizer/
 
 ## Features
 
