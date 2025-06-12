@@ -1,22 +1,39 @@
-# Sorting algorithm visualizer
+# Sort_Visualizer
 
-This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
+This is a web application I built to visualize sorting algorithms in action. I’ve always been fascinated by how different algorithms work behind the scenes, and this project gave me a chance to explore them more deeply while building something interactive and educational.
 
-**Live-** [sorting visualizer](https://dharshakch97.github.io/sort-visualizer/) 
+## About the Project
 
-**Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
+Sorting Visualizer lets users see how various sorting algorithms operate step by step. You can adjust the size of the array, control the speed of the animation, and watch how elements are compared, swapped, and sorted in real time. It’s a fun and intuitive way to better understand the logic and efficiency behind different sorting techniques.
 
-## Purpose
+## Live Demo
 
-I made this sorting visualizer web application to improve my skills more in
-HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorigthms by visualizing them.
+You can try out the live version here (best viewed in Google Chrome):  
+[https://clementmihailescu.github.io/Sorting-Visualizer/]
 
-## What the Sorting algorithms inside this application
+## Features
 
-This application supports the following sorting algorithms:
+- Visualizes multiple sorting algorithms:
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+  - Bubble Sort
+- Adjustable array size and animation speed
+- Clean and responsive user interface
+- Real-time visual feedback during sorting
 
-1. **Bubble Sort**.
-2. **Insertion Sort**.
-3. **Selection Sort**.
-4. **Merge Sort**.
-5. **Quick Sort**.
+## Built With
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/Sort_Visualizer.git
